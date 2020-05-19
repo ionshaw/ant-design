@@ -16,9 +16,9 @@ interface Recommend {
 
 const LIST_CN: Recommend[] = [
   {
-    title: 'Kitchen「设计资产」重磅更新！',
+    title: '蚂蚁金服体验技术部招聘啦！',
     description:
-      '作为 Ant Design 的好伙伴，Kitchen 已第一时间上架 Ant Design 4.0 最新 Sketch 组件包。',
+      '欢迎志同道合的你加入我们，一同在「引领全球体验科技，创造一流用户体验」的愿景指引下前行。',
     img: 'https://gw.alipayobjects.com/mdn/rms_08e378/afts/img/A*bBKkQILVF2AAAAAAAAAAAABkARQnAQ',
     href: 'https://kitchen.alipay.com/',
     popularize: true,
@@ -27,8 +27,8 @@ const LIST_CN: Recommend[] = [
     title: '图表库 G2Plot 1.0 发布了！',
     description:
       '开箱即用图表库 G2Plot 1.0 发布，支持 40+ 图表类型，高级统计分析组件和复杂交互内置。',
-    img: 'https://gw.alipayobjects.com/mdn/rms_08e378/afts/img/A*UsnLRpUZChQAAAAAAAAAAABkARQnAQ',
-    href: 'https://zhuanlan.zhihu.com/p/113888415',
+    img: 'https://gw.alipayobjects.com/mdn/rms_08e378/afts/img/A*BPVATKTgfXwAAAAAAAAAAABkARQnAQ',
+    href: 'https://www.yuque.com/uf44r1/wqrwsg/alwufg',
   },
   {
     title: 'Ant Design 暗黑模式设计解析',
